@@ -2,6 +2,8 @@
 
 ## 1. 站点关系定位与业务边界
 - **个人主页（本项目）**：`guanlan365.top`（根域名）—— 用户个人门户、精神图腾、旗舰代表作陈列与全网连接中心。
+  - GitHub 仓库：[`https://github.com/guanlangzg/guanlan-homepage`](https://github.com/guanlangzg/guanlan-homepage)
+  - 默认分支：`main`
 - **观澜博客（已有项目）**：`https://blog.guanlan365.top/` —— 独立的知识沉淀与长文出版系统。
 - **强约束**：个人主页坚决不复刻博客列表，不设通俗文章流，聚焦高信噪比、东方美学与旗舰造物。
 
