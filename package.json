@@ -1,0 +1,23 @@
+{
+  "name": "guanlan-homepage",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "@unocss/reset": "^66.10.5",
+    "@vitejs/plugin-vue": "^6.0.9",
+    "typescript": "^5.7.3",
+    "unocss": "^66.10.5",
+    "vite": "^6.2.0"
+  },
+  "dependencies": {
+    "@vueuse/core": "^15.0.0",
+    "vue": "^3.5.43"
+  }
+}
